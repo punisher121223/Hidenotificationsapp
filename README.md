@@ -1,1 +1,2 @@
-# Hidenotificationsapp
+# HiddenNotificationApp
+یه اپلیکیشن اندروید برای مخفی شدن و ارسال نوتیفیکیشن‌ها به تلگرام.
